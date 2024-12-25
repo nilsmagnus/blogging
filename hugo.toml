@@ -1,0 +1,4 @@
+baseURL = 'https://bytecode.no/blogg'
+languageCode = 'no-nb'
+title = 'Nils drakedrepar'
+theme = 'ananke'
