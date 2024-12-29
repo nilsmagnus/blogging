@@ -7,7 +7,7 @@ tags = ['ffsbs', 'metodikk']
 
 Hva skal egentlig til for å lykkes med IT? Dette spørsmålet er like aktuelt
 i dag som for 14 år siden når jeg startet som utvikler. Den gangen jobbet jeg
-i IBM som hadde sine oppskrifter for å gjøre IT-prosjekter. Metodikker lange som
+i IBM som hadde sine oppskrifter for å gjennomføre IT-prosjekter. Metodikker lange som
 vonde år med dokumentasjon for detaljstyring av hver lille del av prosjektet. Når jeg gikk over
 til Accenture hadde de sin egen _V-modell_ som var like detaljert og komplisert. Der ble
 det brukt store excel-regneark for å fylle ut hvilke behov kunden hadde for å kunne

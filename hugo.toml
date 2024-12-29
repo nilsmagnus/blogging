@@ -10,7 +10,7 @@ enableRobotsTXT = true
 sectionPagesMenu = "main"
 
 [pagination]
-pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+pagerSize = 15 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [params]
 text_color = ""
