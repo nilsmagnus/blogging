@@ -2,6 +2,7 @@
 title ='Profilering av kode i Go'
 tags= ['go']
 date= 2020-03-18
+draft = true
 +++
 
 _Først publisert på kodemaker.no/blogg_

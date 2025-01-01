@@ -2,6 +2,7 @@
 title= 'Hva i $@ $< * er en Makefile'
 date = 2019-11-20
 tags= ['make']
+draft = true
 +++
 
 _Først publisert på kodemaker.no/blogg_

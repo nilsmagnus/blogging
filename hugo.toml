@@ -1,6 +1,7 @@
 baseURL = 'https://bytecode.no/blogg/'
 languageCode = 'no-nb'
 title = 'Nils tenker høyt'
+description = 'Nils blogger om programmering'
 theme = 'ananke'
 
 defaultContentLanguage = "no"

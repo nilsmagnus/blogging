@@ -2,6 +2,7 @@
 title ='Analyser nettverks-trafikken fra appen din'
 date= 2022-10-16
 tags=['mitm']
+draft = true
 +++
 
 _Først publisert på kodemaker.no/blogg_

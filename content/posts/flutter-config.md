@@ -2,6 +2,7 @@
 title = 'Konfig for Flutter-apper'
 date= 2020-10-14
 tags= ['flutter', 'dart' ]
+draft = true
 +++
 
 _Først publisert på kodemaker.no/blogg_

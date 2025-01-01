@@ -1,7 +1,7 @@
 +++
 date = '2019-07-10T23:36:09+01:00'
-draft = false
 title = 'La applikasjonen din overleve et Kafka-krasj'
+draft = true
 +++
 
 _Først publisert på kodemaker.no/blogg_

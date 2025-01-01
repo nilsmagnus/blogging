@@ -2,6 +2,7 @@
 title = 'Lagre JSON-objekter i postgresql!?'
 date = '2023-11-15T23:36:09+01:00'
 tags = ['postgresql', 'json']
+draft = true
 +++
 
 _Først publisert på kodemaker.no/blogg_

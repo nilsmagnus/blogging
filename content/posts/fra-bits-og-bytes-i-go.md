@@ -2,6 +2,7 @@
 title= 'Fra bits og bytes til datastrukturer'
 tags= ['go']
 date = '2023-09-27T23:36:09+01:00'
+draft = true
 +++
 
 _Først publisert på kodemaker.no/blogg_

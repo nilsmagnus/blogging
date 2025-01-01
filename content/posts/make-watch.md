@@ -2,6 +2,7 @@
 title ='Kontinuerlig bygging med make'
 tags= ['make']
 date= 2020-02-12
+draft = true
 +++
 
 Kontinuerlig integrasjon, javel. Hva med kontinuerlig bygging når du allerede bruker make([fordi du leste min forrige bloggpost](https://www.kodemaker.no/blogg/2019-11-makefile-basics/))?

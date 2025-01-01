@@ -2,6 +2,7 @@
 title ='Go på kommandolinjen'
 date ='2023-08-04'
 tags = ['go']
+draft = true
 +++
 
 _Først publisert på kodemaker.no/blogg_
