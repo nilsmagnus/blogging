@@ -40,40 +40,13 @@ Det som ble levert var stort sett det samme som før de gikk all-in på outcome-
 til seg de skinnende nye metodikkene. Kanskje det ikke var de nye metodikkene som gjorde at de hadde suksess, men
 at det kan ha vært de dyktige menneskene som jobbet der?
 
-Ikke misforstå meg, både outcome teams, OKR og smidig tankegang er ting jeg liker og har mye positivt ved seg.
-Men at det er metodikker i seg selv som gjør at en bedrift lykkes har jeg svært lite troen på.
+Ikke misforstå meg, både outcome teams, OKR og smidig tankegang er ting jeg liker og har mye positivt ved seg. Men 
+følger metodikken slavisk vil du fort finne ut at det er ting som ikke passer inn i din bedrift. Metodikken 
+ble laget generelt for å kunne passe inn mange steder, men  det er ikke slik at "one size fits all". Hvis du f.eks 
+prøver å styre teamet med en produkt-trio  med dev-lead, ux-lead og produkteier vil du kunne finne ut at fagekspertene
+dine eller andre roller du har faller utenfor. Det er ikke dermed sagt at disse ikke har en verdi i teamet ditt, det
+er bare metodikken som ikke har tatt høyde for det.
 
-## Ny, skinnende teknologi
-
-Verktøyene for programmerere har vært i stor endring de siste 14 årene og ingenting tyder på at det vil bli mindre
-endringer de neste 14 årene. Ting går fortere, verktøy blir enklere å bruke, nye programmeringsspråk ser dagens lys
-(og forhåpentligvis kan vi gravlegge de dårlige verktøyene).
-Teknologier og rammeverk som lover å løse alt™, øke utviklingshastigheten og levere mer verdi
-popper opp som paddehatter og det er til tider vanskelig å se ut hva som faktisk funker uten å prøve det ut.
-
-Etter min erfaring så er det slik at når man velger rammeverk som løser alt for deg, så får du mye gratis med en gang, men
-når du treffer edge-casene (og det gjør du), så går vinningen opp i spinningen med å prøve å forstå hvordan rammeverkene er
-bygd opp.
-
-I et av de morsomste prosjektene jeg har vært med på brukte vi *hibernate*, et ORM-rammeverk for å håndtere lesing og skriving av
-data til en database. Det fungerte fint i starten, men jeg tror vi brukte like mye tid på å håndtere hibernate som vi brukte
-på å løse de faktiske oppgavene vi skulle gjøre. Fra den gang har jeg alltid tenkt at alle typer for ORM-rammeverk er
-rammeverk som prøver å innføre et abstraksjonsnivå for databasen, men som du bruker mer tid på enn
-om du bare hadde gjort alle databaseoperasjonene manuelt. Hibernate var et av de rammeverkene som lovet mye, men erfaring har
-vist seg at det i det lange løp koster mer enn det smaker.
-
-I det samme prosjektet (og flere senere prosjekter) har jeg til min ergrelse måttet bruke *spring* fordi det var enten
-bestemt av andre eller allerede bestemt av teamet før jeg kom inn. Spring er et rammeverk som også løser mange
-vanskelige problemer og lar deg komme fort i gang med nye prosjekter. Men det har en kostnad. Det tar ikke lang
-tid før du graver deg ned i detaljene av hvordan diverse spring-annotasjoner fungerer og stacktracene blir lange som
-Kafkaesque prosesser og du ønsker deg mer eksplisitt kode enn det spring og hibernate kan tilby.
-
-Funksjonell programmering bringer mye godt med seg og sammen med mindre rammeverk som vil gjøre alt for deg så har verden
-blitt bedre for mange utviklere. Men så har du de som trekker det kanskje litt for langt i andre retningen. Når
-programmering plutselig glir over i akademiske retninger og selve programmeringen og programmeringsspråket
-blir målet i seg selv så kommer det faktiske problemene vi skal løse i andre rekke. Jeg har på følelsen av at
-noen av oss programmerere burde være litt mer pragmatiske mht valg av teknologier og litt mindre religiøse
-som enkelte fremstår (jeg ser på dere, blodfans av [sett-inn-teknologi-som-skal-løse-alle-problemer]).
 
 ## Flinke folk som bryr seg, FFSBS
 
@@ -81,12 +54,10 @@ Så hva skal egentlig til for å lykkes med IT når vi ikke kan stole 100% på a
 kan sikre oss suksess?
 
 Hvis du har vært med på prosjekter som har lykkes så vil du helt sikkert huske at det er en del *flinke folk*
-som har vært nøkkelfaktoren. Kanskje du har en [Alf Kristian](https://www.kodemaker.no/alf-kristian/) på laget
-som gjorde en uvurderlig innsats og tok mange riktige teknologi-valg? Eller en [Christin](https://www.kodemaker.no/christin/)
-som høylytt og uredd sa meningene sine når ting ikke henger på grep?
+som har vært nøkkelfaktoren. Kanskje du har en super utvikler på laget
+som gjorde en uvurderlig innsats og tok mange riktige teknologi-valg? Eller en høylytt og uredd person som tydelig ytrer meningene sine når ting ikke henger på grep?
 
-Jeg er hvertfall ganske sikker på at prosjektene som lykkes ikke har så veldig mye med metodikk X og programmeringsspråk N
-å gjøre. Det er de flinke folka som bryr seg om produktet som skal leveres som er avgjørende. Når du har disse
+Jeg er hvertfall ganske sikker på at prosjektene som lykkes ikke har så veldig mye med metodikk X å gjøre. Det er de flinke folka som bryr seg om produktet som skal leveres som er avgjørende. Når du har disse
 om bord vil sjansene for å lykkes øke betraktelig.
 
 Selvfølgelig hjelper det med andre ting som små team, autonomitet og kort vei til produksjon. Men ingenting av dette
