@@ -2,6 +2,7 @@
 date = '2025-03-27T12:45:29+01:00'
 draft = false
 title = 'Oppgradering av database for farvann'
+featured_image = '/images/timescale.webp'
 tags = ['farvann', 'docker']
 +++
 

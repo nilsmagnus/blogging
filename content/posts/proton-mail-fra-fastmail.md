@@ -2,6 +2,7 @@
 date = '2025-03-29T20:25:27+01:00'
 draft = false
 title = 'Bytte fra bigtech til europeisk tech'
+featured_image = '/images/proton.png'
 tags = ['proton', 'hetzner', 'big-tech']
 +++
 
