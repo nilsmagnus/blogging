@@ -33,7 +33,7 @@ Vivaldi har dessuten teamet opp med Proton for å tilby gratis VPN, dette kan je
 
 Kona og jeg bruker [Jottacloud](https://Jottacloud.no), noe vi har gjort en årrekke. Det gjør bildedeling lett på tvers av Android/iOS/Desktop, så dette er gull. Siden dette er norsk er det en no-brainer for meg som nordmann å velge dette. Dataene blir lagret i Norge. 
 
-Hvis jeg ikke hadde vært norsk hadde jeg sterkt vurdert Proton Disk til dette.
+Hvis jeg ikke hadde vært norsk hadde jeg sterkt vurdert [Proton Drive](https://https://proton.me/drive) til dette.
 
 
 ## Passord
